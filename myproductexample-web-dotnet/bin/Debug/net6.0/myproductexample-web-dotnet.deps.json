@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "myproductexample-web-dotnet/1.0.0": {
+        "runtime": {
+          "myproductexample-web-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "myproductexample-web-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
