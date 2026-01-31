@@ -1,0 +1,17 @@
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\bin\Debug\net6.0\myproductexameple-web-dotnet-service.deps.json
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\bin\Debug\net6.0\myproductexameple-web-dotnet-service.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\bin\Debug\net6.0\myproductexameple-web-dotnet-service.pdb
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\bin\Debug\net6.0\myproductexameple-web-dotnet-domain.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\bin\Debug\net6.0\myproductexameple-web-dotnet-infra.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\bin\Debug\net6.0\myproductexameple-web-dotnet-domain.pdb
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\bin\Debug\net6.0\myproductexameple-web-dotnet-infra.pdb
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\myproductexameple-web-dotnet-service.csproj.AssemblyReference.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\myproductexameple-web-dotnet-service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\myproductexameple-web-dotnet-service.AssemblyInfoInputs.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\myproductexameple-web-dotnet-service.AssemblyInfo.cs
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\myproductexameple-web-dotnet-service.csproj.CoreCompileInputs.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\myproductexameple-web-dotnet-service.csproj.CopyComplete
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\myproductexameple-web-dotnet-service.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\refint\myproductexameple-web-dotnet-service.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\myproductexameple-web-dotnet-service.pdb
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-service\obj\Debug\net6.0\ref\myproductexameple-web-dotnet-service.dll

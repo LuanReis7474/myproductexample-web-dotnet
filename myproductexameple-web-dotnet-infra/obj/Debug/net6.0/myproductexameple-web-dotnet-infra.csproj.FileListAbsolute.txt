@@ -1,0 +1,17 @@
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\bin\Debug\net6.0\myproductexameple-web-dotnet-infra.deps.json
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\bin\Debug\net6.0\myproductexameple-web-dotnet-infra.runtimeconfig.json
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\bin\Debug\net6.0\myproductexameple-web-dotnet-infra.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\bin\Debug\net6.0\myproductexameple-web-dotnet-infra.pdb
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\bin\Debug\net6.0\myproductexameple-web-dotnet-domain.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\bin\Debug\net6.0\myproductexameple-web-dotnet-domain.pdb
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\myproductexameple-web-dotnet-infra.csproj.AssemblyReference.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\myproductexameple-web-dotnet-infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\myproductexameple-web-dotnet-infra.AssemblyInfoInputs.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\myproductexameple-web-dotnet-infra.AssemblyInfo.cs
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\myproductexameple-web-dotnet-infra.csproj.CoreCompileInputs.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\myproductexameple-web-dotnet-infra.csproj.CopyComplete
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\myproductexameple-web-dotnet-infra.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\refint\myproductexameple-web-dotnet-infra.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\myproductexameple-web-dotnet-infra.pdb
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\myproductexameple-web-dotnet-infra.genruntimeconfig.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-infra\obj\Debug\net6.0\ref\myproductexameple-web-dotnet-infra.dll

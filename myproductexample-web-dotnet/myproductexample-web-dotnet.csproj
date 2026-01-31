@@ -7,4 +7,16 @@
     <RootNamespace>myproductexample_web_dotnet</RootNamespace>
   </PropertyGroup>
 
+ <ItemGroup>
+  <ProjectReference Include="..\myproductexameple-web-dotnet-service\myproductexameple-web-dotnet-service.csproj"></ProjectReference>
+  <ProjectReference Include="..\myproductexameple-web-dotnet-domain\myproductexameple-web-dotnet-domain.csproj"></ProjectReference>
+  <ProjectReference Include="..\myproductexameple-web-dotnet-infra\myproductexameple-web-dotnet-infra.csproj"></ProjectReference>
+</ItemGroup>
+
+ <ItemGroup>
+   <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.36" />
+   <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.36" />
+ </ItemGroup>
+
+
 </Project>

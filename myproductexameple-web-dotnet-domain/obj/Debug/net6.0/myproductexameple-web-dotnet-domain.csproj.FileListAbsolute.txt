@@ -1,0 +1,12 @@
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\bin\Debug\net6.0\myproductexameple-web-dotnet-domain.deps.json
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\bin\Debug\net6.0\myproductexameple-web-dotnet-domain.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\bin\Debug\net6.0\myproductexameple-web-dotnet-domain.pdb
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\obj\Debug\net6.0\myproductexameple-web-dotnet-domain.csproj.AssemblyReference.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\obj\Debug\net6.0\myproductexameple-web-dotnet-domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\obj\Debug\net6.0\myproductexameple-web-dotnet-domain.AssemblyInfoInputs.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\obj\Debug\net6.0\myproductexameple-web-dotnet-domain.AssemblyInfo.cs
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\obj\Debug\net6.0\myproductexameple-web-dotnet-domain.csproj.CoreCompileInputs.cache
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\obj\Debug\net6.0\myproductexameple-web-dotnet-domain.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\obj\Debug\net6.0\refint\myproductexameple-web-dotnet-domain.dll
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\obj\Debug\net6.0\myproductexameple-web-dotnet-domain.pdb
+C:\Users\User\myproductexample-web-dotnet\myproductexameple-web-dotnet-domain\obj\Debug\net6.0\ref\myproductexameple-web-dotnet-domain.dll

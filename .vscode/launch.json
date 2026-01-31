@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (Web)",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/myproductexample-web-dotnet/bin/Debug/net6.0/myproductexample-web-dotnet.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/myproductexample-web-dotnet",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    ]
+}

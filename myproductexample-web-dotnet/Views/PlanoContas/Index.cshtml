@@ -1,0 +1,92 @@
+@model IEnumerable<myproductexample_web_dotnet.Models.PlanoContaModel>
+
+@{
+    ViewData["Title"] = "Plano de Contas";
+    Layout = "_Layout";
+}
+
+<style>
+    .card-page { margin-top: 24px; }
+    .table-fixed thead th { background:#f8f9fa; }
+    .btn-create { margin-bottom: 16px; }
+    .btn-edit { background: #ffc107; border-color: #ffb800; color: #212529; }
+    .btn-delete { background: transparent; border: 1px solid #ff6b81; color: #ff6b81; }
+    .btn-delete:hover { background: #ff6b81; color: #fff; }
+    .table td, .table th { vertical-align: middle; }
+</style>
+
+<div class="container card-page">
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h3 class="card-title mb-0">Plano de Contas</h3>
+                <!-- Ajuste asp-action para o nome correto (Cadastrar / Create) conforme seu controller -->
+                <a asp-action="Cadastrar" class="btn btn-primary btn-create">Criar item de Plano de Conta</a>
+            </div>
+
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover table-fixed">
+                    <thead class="text-center">
+                        <tr>
+                            <th style="width:80px">Id</th>
+                            <th>Descrição</th>
+                            <th style="width:120px">Tipo</th>
+                            <th style="width:220px"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model == null || !Model.Any())
+                        {
+                            <tr class="text-center text-muted">
+                                <td colspan="4">Nenhum registro encontrado</td>
+                            </tr>
+                        }
+                        else
+                        {
+                            foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="text-center">@item.Id</td>
+                                    <td>@item.Descricao</td>
+                                    <td class="text-center">@item.Tipo</td>
+                                    <td class="text-center">
+                                        <!-- Editar -->
+                                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-edit me-2">Editar</a>
+
+                                        <!-- Excluir via POST (apenas se você implementar DeleteConfirmed no controller) -->
+                                        <form asp-action="DeleteConfirmed" method="post" class="d-inline" onsubmit="return confirm('Deseja realmente excluir o item #' + @item.Id + '?');">
+                                            @Html.AntiForgeryToken()
+                                            <input type="hidden" name="id" value="@item.Id" />
+                                            <button type="submit" class="btn btn-sm btn-delete">Excluir</button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="d-flex justify-content-end mt-3">
+                <nav aria-label="Page navigation example">
+                    <ul class="pagination pagination-sm mb-0">
+                        <li class="page-item disabled"><a class="page-link">Anterior</a></li>
+                        <li class="page-item active"><a class="page-link">1</a></li>
+                        <li class="page-item"><a class="page-link">2</a></li>
+                        <li class="page-item"><a class="page-link">Próxima</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Apenas caso queira usar JS para redirecionar em vez de anchors
+        function Novo() {
+            // ajuste a rota se preferir outra ação (ex.: "Create" ou "Cadastrar")
+            window.location.href = '@Url.Action("Cadastrar", "PlanoContas")';
+        }
+    </script>
+}
